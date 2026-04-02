@@ -23,9 +23,10 @@
 - Проверка длинного имени
 ## Структура коллекции
 
-- Create pet (valid)
-- Create pet (invalid id)
-- Create pet (empty name)
-- Create pet (long name)
-- Create pet (invalid status)
-- Get pet
+- Create pet with ID-1
+- Create pet with long ID 
+- Create pet with ID 1.5
+- Create pet with ID 2f
+- Find pet with hollow request
+- Create pet with valid status
+- Delete pet
