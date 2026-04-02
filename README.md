@@ -21,3 +21,11 @@
 - Проверка невалидного id (ожидается 400)
 - Проверка пустого имени
 - Проверка длинного имени
+## Структура коллекции
+
+- Create pet (valid)
+- Create pet (invalid id)
+- Create pet (empty name)
+- Create pet (long name)
+- Create pet (invalid status)
+- Get pet
